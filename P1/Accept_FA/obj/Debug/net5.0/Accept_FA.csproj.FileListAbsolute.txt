@@ -1,0 +1,16 @@
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.exe
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.deps.json
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.runtimeconfig.json
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.runtimeconfig.dev.json
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.dll
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\ref\Accept_FA.dll
+F:\TLA\Projects\P1\Accept_FA\bin\Debug\net5.0\Accept_FA.pdb
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.csproj.AssemblyReference.cache
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.GeneratedMSBuildEditorConfig.editorconfig
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.AssemblyInfoInputs.cache
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.AssemblyInfo.cs
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.csproj.CoreCompileInputs.cache
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.dll
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\ref\Accept_FA.dll
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.pdb
+F:\TLA\Projects\P1\Accept_FA\obj\Debug\net5.0\Accept_FA.genruntimeconfig.cache

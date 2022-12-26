@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Accept_FA/1.0.0": {
+        "runtime": {
+          "Accept_FA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Accept_FA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

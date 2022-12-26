@@ -1,0 +1,16 @@
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.exe
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.deps.json
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.runtimeconfig.json
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.runtimeconfig.dev.json
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.dll
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\ref\MinimizeDFA.dll
+F:\TLA\Projects\P1\MinimizeDFA\bin\Debug\net5.0\MinimizeDFA.pdb
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.csproj.AssemblyReference.cache
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.GeneratedMSBuildEditorConfig.editorconfig
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.AssemblyInfoInputs.cache
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.AssemblyInfo.cs
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.csproj.CoreCompileInputs.cache
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.dll
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\ref\MinimizeDFA.dll
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.pdb
+F:\TLA\Projects\P1\MinimizeDFA\obj\Debug\net5.0\MinimizeDFA.genruntimeconfig.cache

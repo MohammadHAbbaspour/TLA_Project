@@ -1,0 +1,16 @@
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.exe
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.deps.json
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.runtimeconfig.json
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.runtimeconfig.dev.json
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.dll
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\ref\Convert_NFA_TO_DFA.dll
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\bin\Debug\net5.0\Convert_NFA_TO_DFA.pdb
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.csproj.AssemblyReference.cache
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.GeneratedMSBuildEditorConfig.editorconfig
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.AssemblyInfoInputs.cache
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.AssemblyInfo.cs
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.csproj.CoreCompileInputs.cache
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.dll
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\ref\Convert_NFA_TO_DFA.dll
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.pdb
+F:\TLA\Projects\P1\Convert_NFA_TO_DFA\obj\Debug\net5.0\Convert_NFA_TO_DFA.genruntimeconfig.cache
